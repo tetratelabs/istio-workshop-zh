@@ -1,0 +1,51 @@
+{
+    "title": "Istio Workshop/教程中文版",
+    "description": "Istio Workshop/教程中文版",
+    "language": "zh-hans",
+    "author": "Tetrate",
+    "plugins": [
+        "github",
+        "codesnippet",
+        "splitter",
+        "page-toc-button",
+        "image-captions",
+        "editlink",
+        "back-to-top-button",
+        "-lunr", "-search", "search-plus",
+        "github-buttons@2.1.0",
+        "tbfed-pagefooter@^0.0.1",
+        "theme-default",
+        "-highlight", "prism", "prism-themes",
+        "lightbox"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "github": {
+            "url": "https://github.com/tetratelabs/istio-workshop-zh"
+        },
+        "editlink": {
+            "base": "https://github.com/tetratelabs/istio-workshop-zh/blob/main/",
+            "label": "编辑本页"
+        },
+        "image-captions": {
+            "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_：_CAPTION_"
+        },
+        "github-buttons": {
+            "repo": "tetratelabs/istio-workshop-zh",
+            "types": ["star"],
+            "size": "small"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Distributed under <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>CC BY 4.0</a> | <a href=https://tetrate.io>tetrate.io</a>",
+            "modify_label": " Updated at ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "prism": {
+            "css": [
+            "prism-themes/themes/prism-ghcolors.css"
+            ]
+        }
+    }
+}
