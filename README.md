@@ -12,6 +12,7 @@ Istio Workshop 的视频及课件地址如下：
 | 标题          | 视频                                                 | PDF                                                   |
 | ------------- | ---------------------------------------------------- | ----------------------------------------------------- |
 | 第 1 讲：简介 | [B 站](https://www.bilibili.com/video/BV1Gr4y1a7gt/) | [腾讯文档](https://docs.qq.com/pdf/DRU55RlBLTEdEbVR2) |
+| 第 2 讲：Istio 架构 | [B 站](https://www.bilibili.com/video/BV1BL4y137C5/) | [腾讯文档](https://docs.qq.com/pdf/DRXRiVXlXVWxZRXNi)
 
 ## 版权
 
