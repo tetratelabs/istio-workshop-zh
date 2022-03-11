@@ -15,6 +15,7 @@ Istio Workshop 的视频及课件地址如下：
 | 第 2 讲：Istio 架构 | [B 站](https://www.bilibili.com/video/BV1BL4y137C5/) | [腾讯文档](https://docs.qq.com/pdf/DRXRiVXlXVWxZRXNi)|
 | 第 3 讲：数据平面 Envoy | [B 站](https://bilibili.com/video/BV1vU4y1Z7FM/) | - |
 | 第 4 讲：Istio 的安装和 Bookinfo 应用 | [B 站](https://www.bilibili.com/video/BV1X34y1b76Q) | - |
+| 第 5 讲：流量管理概述 | [B 站](https://www.bilibili.com/video/BV1Yi4y1C7Fw) | - |
 
 ## 版权
 
